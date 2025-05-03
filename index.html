@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Introducción</title>
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <link rel="shortcut icon" href="./assets/images/logo.png" type="image/x-icon">
+        <!-- Se usa el logo de icono para darle otro toque más de personalización -->
+    </head>
+    <body>
+        <!-- Página de introducción, contiene un texto autoexplicativo del sitio y la elección de voces, una vez se ha elegido la voz (o ausencia de la misma), 
+            se redirige con el botón final a la página principal. -->
+        <!-- Deben ser elementos botón, input o selects para el evento con tab. -->
+        <section id="intro">
+            <button class="tittleButtonTextCenter" id="introText">Introducción</button>
+            <button class="buttonText">Para navegar correctamente por la página, haz uso del tabulador para ir hacia los distintos elementos,
+                o de la tecla mayus + tabulador para volver al anterior elemento.</button>
+            <button class="buttonText">Sobre el selector, puedes desplazarte con las teclas de arriba o abajo para seleccionar las distintas voces, 
+                el botón guardará tus preferencias y te llevará a la página principal del sitio.</button><br>
+            <button class="buttonText">La página principal contiene un buscador de recetas, que permite buscar las recetas por voz,
+                leer el texto a buscar y las recetas en todo momento.</button>
+                <button class="buttonText">En caso de que no se reproduzca en alto la búsqueda, es posible que sea necesario pulsar dos veces el tabulador y enter y hablar, 
+                    ya que habrá saltado una alerta que pedirá perFmisos para grabar.</button><br>
+            <button class="buttonText">También, puedes encontrar las recetas ordenadas por categorías en distintos desplegables,
+                para abrirlos y acceder a las mismas, se necesita pulsar la tecla enter.</button><br>
+            <button class="buttonText">Una vez en la página de la receta, existen dos botones de retorno a la página principal, uno al inicio, y otro al final de la misma.</button><br>
+
+        </section>
+        <section>
+            <button class="tittleButtonTextCenter">Bienvenide al Recetario inclusivo</button>
+            <input id="logo" class="images" type="image" src="./assets/images/logo.png" alt="Imagen del logo del recetario inclusivo, 
+        se muestra un ojo con una línea en diagonal tachándolo, y sucesivas líneas paralelas en la parte izquierda, 
+        para representar la falta de visión.">
+        </section>
+        <section class="controls">
+            <!-- Select que será cargado mediante el js -->
+            <select class="rounded" id ="voiceSelector"></select>
+            <button id="voice" class="btn btn-magenta text-white">Escoger voz</button>
+        </section>
+        <footer></footer>
+        <script type="module" src="./src/js/index.js"></script>
+    </body>
+</html>

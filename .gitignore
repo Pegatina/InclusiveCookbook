@@ -1,0 +1,6 @@
+# dependencias
+node_modules/
+package.json
+
+# salida de build
+dist/

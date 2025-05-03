@@ -1,0 +1,957 @@
+[
+    {
+        "title": "Risotto de setas y pato",
+        "image": {
+            "url": "../../../assets/images/arroz1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un bol blanco encima, con setas esparcidas por toda la vajilla."
+        },
+        "diners": 3,
+        "time": "3 horas",
+        "difficulty": "difícil",
+        "description": "Arroz Meloso, anacarado con sofrito de setas, toppings de Pato barberie y Setas portobello al Parmesano.",
+        "ingredients": [
+            "3 vasos de arroz Carnaroli (o arroz redondo)",
+            "1 kilogramo de alitas de pollo troceadas",
+            "4 kilogramos de cebolla blanca (1,5 kilogramos para el caldo, el resto para el sofrito)",
+            "3 ajos",
+            "1,5 kilogramos de zanahoria",
+            "2 cucharadas de tomate concentrado",
+            "10 litros de agua mineral",
+            "2 kilogramos de setas portobello (1 kilogramo para el caldo, 1 kilogramo para el sofrito, reservar una pizca para la presentación)",
+            "1,5 litros de vino tinto (para el caldo y para la salsa)",
+            "2 hojas de laurel",
+            "1 magret de pato",
+            "1 cuña de queso tipo parmesano",
+            "orégano seco",
+            "sal"
+        ],
+        "making": [
+            "1. Calentamos la olla con aceite, cuando esté bien caliente se añade la cebolla (1,5 kilogramos), cortada a dados grandes.",
+            "2. Una vez tostado, se añade la zanahoria cortada a dados grandes, más o menos al mismo tamaño que la cebolla.",
+            "3. Cuando esté tostada la zanahoria añadimos 3 ajos machacados y esperamos a que se desarrolle el aroma. Lo reservamos.",
+            "4. En la misma olla añadimos las alitas de pollo troceadas y tostamos bien. Una vez tostadas añadimos la verdura que se ha hecho previamente.",
+            "5. Mezclamos y añadimos 2 cucharadas de tomate concentrado. Compotamos todo hasta que empieza a pegarse.",
+            "6. Cuando se está pegando, se añaden las de setas portobello troceadas (1 kilogramo), se mezcla todo bien y se espera hasta que esté todo tostado.",
+            "7. Una vez que se vuelve a quedar pegado, añadimos un litro de vino tinto, evaporamos todo el alcohol y añadimos agua. Aproximadamente 10 litros.",
+            "8. Cuando empieza a hervir añadimos 2 hojas de Laurel y semi-tapamos a fuego lento durante 2 horas.",
+            "9. Colamos todo por un colador fino y reservamos el caldo.",
+            "10. Cortamos a dados pequeños la cebolla (2,5 kilogramos restantes) y lo pochamos a fuego lento con aceite. Vamos añadiendo una pizca de agua para que no tueste.",
+            "11. Durante 1 hora vamos removiendo y añadiendo agua en cuanto se evapore la anterior tirada.",
+            "12. Una vez tenga un color oscuro y la cebolla esté blanda añadimos el kilogramo restante de setas, laminadas.",
+            "13. Pochamos todo hasta que no quede nada de líquido y la grasa aflore. Reservamos.",
+            "14. En una olla mezclamos el arroz con el sofrito, por cada vaso de arroz, una cucharada sopera de sofrito. Calculamos un vaso por comensal.",
+            "15. Cuando el arroz tenga color de nácar (más o menos 5 minutos a fuego fuerte y removiendo con energía), cubrimos con caldo el arroz y vamos removiendo.",
+            "16. Cada vez que el arroz se queda sin caldo añadimos hasta cubrir de nuevo, con el fuego fuerte y removiendo con energía, sin parar.",
+            "17. Ponemos la cantidad necesaria de sal al gusto del consumidor mientras se va removiendo.",
+            "18. Cuando se note el arroz cremoso, añadimos parmesano rallado y un poco de caldo y removemos con energía.",
+            "19. Cogemos el magret de pato y lo sumergimos en agua con sal. Por cada litro de agua, 100 gramos de sal. Pasados 40 minutos lo sacamos y lo secamos bien.",
+            "20. En una sartén, calentamos hasta que empieza a humear, y luego bajamos el fuego y ponemos el pato por la piel en la sartén. En 10 minutos estará dorado.",
+            "21. Sacamos el magret y lo ponemos 10 minutos al horno.",
+            "22. En la sartén donde se hizo el pato, añadimos 2 setas portobellos laminadas y lo doramos bien con aceite.",
+            "23. Una vez dorados, añadimos un poco de caldo y un poco de vino. Una vez haya reducido, sacamos el pato, lo cortamos en dados y lo añadimos en la sartén con todo.",
+            "24. Mezclamos con energía y reservamos.",
+            "25. En un plato hondo ponemos el arroz cremoso, por encima un par de hojas de orégano secas, y el pato en dados junto a las setas.",
+            "26. Acabamos con algo de parmesano espolvoreado."
+        ],
+        "keywords": [
+            "arroz",
+            "pollo",
+            "cebolla",
+            "ajo",
+            "zanahoria",
+            "setas",
+            "pato",
+            "queso"
+        ],
+        "categories": [
+            "Arroces",
+            "Setas"
+        ]
+    },
+    {
+        "title": "Arroz caldoso de Bogavante",
+        "image": {
+            "url": "../../../assets/images/arroz2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un plato hondo blanco encima que contiene un imponente bogavante rodeado de caldo."
+        },
+        "diners": 4,
+        "time": "4 horas",
+        "difficulty": "difícil",
+        "description": "Receta tradicional gallega de arroz caldoso con bogavante azul, uno de los mariscos más exquisitos, con un sofrito de pimientos rojos y fumet de pescado de roca y marisco.",
+        "ingredients": [
+            "350 gramos de Arroz Carnaroli (arroz redondo)",
+            "200 gramos de galeras",
+            "150 gramos de cangrejo de mar",
+            "125 gramos de gamba alistada",
+            "400 gramos de pescado de roca",
+            "4 cebollas",
+            "2 zanahorias",
+            "2 puerros",
+            "2 dientes de ajo",
+            "pimentón dulce",
+            "50 mililitros de vino blanco",
+            "1 tomate",
+            "concentrado de tomate",
+            "pulpa de pimiento choricero",
+            "medio manojo de romero y tomillo",
+            "pimienta negra en grano",
+            "pimienta negra molida",
+            "sal",
+            "1 unidad de bogavante azul",
+            "1 pimiento rojo grande",
+            "200 gramos de sepia troceada"
+        ],
+        "making": [
+            "1. Calentamos una olla, añadimos aceite y doramos las galeras, los cangrejos y la gamba alistada por tandas. Reservamos.",
+            "2. En la misma olla agregamos una cebolla y media cortada en dados grandes y doramos.",
+            "3. Añadimos la zanahoria cortada en dados y doramos.",
+            "4. Añadimos el puerro y el ajo picados y doramos.",
+            "5. Añadimos el pimentón, rehogamos durante unos instantes y agregamos el tomate concentrado, una cucharada sopera de pulpa de pimiento choricero, y el tomate cortado a dados.",
+            "6. Confitamos el tomate hasta que pierda toda el agua y añadimos el vino blanco.",
+            "7. Dejamos evaporar y añadimos el romero, el tomillo, 10 gramos de pimienta negra, el pescado de roca dorado previamente en horno. Confitamos durante unos minutos.",
+            "8. Incorporamos los mariscos y llenamos con agua hasta cubrir todo.",
+            "9. Esperamos que empiece a hervir, retiramos la espuma blanca que se genera y cocemos durante 20 minutos. Apagamos el fuego y tapamos otros 20 minutos.",
+            "10. Colamos todo en otra olla a fuego fuerte y reducimos el caldo de pescado hasta que tenga un sabor intenso. Reservamos.",
+            "11. En una sartén con aceite muy caliente, asamos la sepia troceada hasta que pierda el agua y esté tostado. Reservamos.",
+            "12. En la misma sartén añadimos el resto de cebollas picadas y lo sofreímos hasta dorarlo.",
+            "13. Añadimos el pimiento rojo cortado en dados y lo sofreímos también, hasta dorarlo.",
+            "14. Añadimos la sepia y una cuchara de tomate concentrado. Removemos hasta que quede un sofrito oscuro y compotado.",
+            "15. En una sartén calentamos el sofrito y añadimos el arroz. Removemos hasta que el arroz empiece a transparentar.",
+            "16. Añadimos 200 mililitros de fumet (caldo de pescado) de roca y marisco caliente. Cocemos el arroz con el fumet.",
+            "17. Vamos añadiendo fumet cada vez que se evapora hasta que el arroz esté a punto.",
+            "18. Apagamos el fuego y añadimos otros 200 mililitros de fumet quedando el arroz caldoso.",
+            "19. Con un cuchillo, partimos por la mitad el bogavante y en una sartén asamos por la parte interna. Reservamos.",
+            "20. Para el emplatado, en un plato hondo añadimos la porción de arroz caldoso y una mitad del bogavante."
+        ],
+        "keywords": [
+            "arroz",
+            "bogavante",
+            "galeras",
+            "cangrejo",
+            "gamba",
+            "pescado",
+            "cebolla",
+            "zanahoria",
+            "puerro",
+            "ajo",
+            "pimentón",
+            "vino",
+            "tomate",
+            "pimiento",
+            "sepia"
+        ],
+        "categories": [
+            "Arroces"
+        ]
+    },
+    {
+        "title": "Crema catalana de castaña",
+        "image": {
+            "url": "../../../assets/images/caliente1.png",
+            "alt_text": "Imagen del postre, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, encima un bol plano de cristal con el mismo."
+        },
+        "diners": 4,
+        "time": "1 hora",
+        "difficulty": "media",
+        "description": "La castaña compagina perfectamente con la crema melosa, y los tonos asados del “cremat” armonizan el plato y recuerdan a los otoños de castañas.",
+        "ingredients": [
+            "3 vainas de vainilla",
+            "50 centilitros de leche",
+            "50 centilitros de nata liquida de repostería",
+            "8 yemas de huevo",
+            "100 gramos de azúcar blanco",
+            "10 castañas",
+            "100 gramos de azúcar moreno",
+            "sal"
+        ],
+        "making": [
+            "1. Cogemos las castañas peladas y las calentamos en un cazo con 20 centilitros de nata, una cucharadita de azúcar, una pizca de sal y una bolsita de té rooibos.",
+            "2. Dejamos calentar hasta que rompa a hervir, sacamos del fuego, sacamos la bolsa de té y trituramos con una batidora.",
+            "3. Tiene que estar bien triturada, pasamos por colador fino y reservamos lo colado.",
+            "4. Hendimos las vainas de vainilla y extraemos las semillas con una puntilla.",
+            "5. Ponemos esas semillas en una cacerola, junto con la leche y la nata liquida. Dejamos que hierva a fuego lento.",
+            "6. Una vez que empieza a hervir, retiramos del fuego y tapamos con film.",
+            "7. Se pueden dejar las vainas en la leche y la nata para dejarlo infusionar más, unos 30 minutos.",
+            "8. En una ensaladera, mezclamos las yemas con azúcar y la crema de castañas que habíamos reservado.",
+            "9. Una vez mezclado con energía incorporamos poco a poco la nata infusionada con vainilla. Se tiene que mezclar con delicadeza y que quede aireado. Una vez esté todo mezclado, lo colamos con un colador fino de nuevo.",
+            "10. Con el horno precalentado a 100ºC, Rellenamos con la masa de crema catalana un molde de barro o una tarrina que soporte el horno.",
+            "11. Horneamos 30 min. La cocción correcta se alcanza cuando la superficie está cuajada y el interior tembloroso.",
+            "12. Quitamos los moldes del horno y dejamos enfriar a temperatura ambiente, luego se reservan en la nevera.",
+            "13. Se pone la tarrina de barro sobre una pizarra oscura, añadimos azúcar moreno por encima y lo quemamos con soplete a una distancia media.",
+            "14. En cuanto el azúcar esté caramelizado, espolvoreamos azúcar glas por toda la pizarra.",
+            "15. Se le puede añadir una castaña asada y pelada pasada por miel en la superficie del postre."
+        ],
+        "keywords": [
+            "castaña",
+            "vainilla",
+            "leche",
+            "nata",
+            "yemas de huevo"
+        ],
+        "categories": [
+            "Postres",
+            "Calientes"
+        ]
+    },
+    {
+        "title": "Pollo con sofrito de chorizo, tomates y garbanzos",
+        "image": {
+            "url": "../../../assets/images/carne1.png",
+            "alt_text": "Imagen del plato, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un plato hondo blanco encima, con una porción generosa de pollo con sofrito."
+        },
+        "diners": 4,
+        "time": "1 hora y 45 minutos",
+        "difficulty": "fácil",
+        "description": "Pollo al estilo rural con fondo de cerveza negra. Melosa e intensa a partes iguales, se recomienda servir con puré de patatas y ralladura de limón.",
+        "ingredients": [
+            "1 cebolla",
+            "2 dientes de ajo",
+            "2 ramitas de romero fresco",
+            "100 gramos de chorizo picante",
+            "400 gramos de garbanzo cocido",
+            "400 gramos de tomate triturado",
+            "300 mililitros de cerveza negra",
+            "sal",
+            "pimienta",
+            "1,4 kilogramos de contramuslos con hueso",
+            "1 cazo de aceite de oliva"
+        ],
+        "making": [
+            "1. Precalentamos el horno a 160ºC.",
+            "2. En una olla asamos la cebolla picada, una vez bien caramelizada añadimos el ajo picado, el romero, el chorizo picado y los garbanzos.",
+            "3. Pochamos todo hasta que quede dorado y sofrito.",
+            "4. Añadimos el tomate hasta compotar (sacarle el agua). Una vez compotado, añadimos la cerveza negra. Reducimos a la mitad a fuego fuerte y reservamos.",
+            "5. Salpimentamos el contramuslo y lo asamos por ambos lados en una rondón.",
+            "6. Añadimos la mezcla del sofrito con la cerveza reducida y recuperamos todo en una bandeja apta para horno.",
+            "7. Subimos la temperatura del horno a 200ºC e introducimos la bandeja durante 50 minutos.",
+            "8. Una vez transcurrido los 50 minutos, damos la vuelta al contramuslo con unas pinzas y dejamos 20 minutos más. Añadir sal si hace falta a la salsa y servir."
+        ],
+        "keywords": [
+            "pollo",
+            "chorizo",
+            "garbanzos",
+            "tomate",
+            "cerveza negra"
+        ],
+        "categories": [
+            "Carnes",
+            "Garbanzos"
+        ]
+    },
+    {
+        "title": "Ternera Curry thai",
+        "image": {
+            "url": "../../../assets/images/carne2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato negro con la ternera cubierta de salsa curry y cilantro picado."
+        },
+        "diners": 4,
+        "time": "2 horas y 15 minutos",
+        "difficulty": "difícil",
+        "description": "Guiso de sabores de la India, con toques de cilantro y curry, que le dan a la ternera un toque oriental que encaja en cualquier situación.",
+        "ingredients": [
+            "ternera 900 gramos: Parte de la espaldilla cortada en lonchas",
+            "100 gramos de jengibre fresco picado",
+            "medio manojo de cilantro fresco",
+            "media cucharada sopera de pasta de curry amarillo",
+            "300 mililitros de leche de coco",
+            "aceite de oliva",
+            "sal",
+            "pimienta",
+            "1 kilogramo de alitas de pollo troceadas",
+            "1,5 kilogramos de cebolla blanca",
+            "3 ajos",
+            "1,5 kilogramos de zanahoria",
+            "2 cucharadas de tomate concentrado",
+            "10 litros de agua mineral",
+            "2 kilogramos de setas portobello",
+            "1,5 litro de vino tinto",
+            "2 hojas de laurel",
+            "harina"
+        ],
+        "making": [
+            "1. Calentamos la olla con aceite, cuando esté bien caliente añadimos la cebolla cortada a dados grandes.",
+            "2. Una vez tostado, añadimos la zanahoria cortada a dados grandes, más o menos al mismo tamaño que la cebolla.",
+            "3. Cuando esté tostada la zanahoria, añadimos 3 ajos machacados y esperamos a que se desarrolle el aroma. Lo reservamos.",
+            "4. En la misma olla añadimos las alitas de pollo troceadas y tostamos bien. Una vez tostadas añadimos la verdura que se ha hecho previamente.",
+            "5. Mezclamos y añadimos 2 cucharadas de tomate concentrado. Compotamos todo hasta que empieza a pegarse.",
+            "6. Cuando se está pegando, añadimos las setas portobello troceadas (1 kilogramo), mezclamos todo bien y esperamos hasta que esté todo tostado.",
+            "7. Una vez que se vuelve a quedar pegado, añadimos un litro de vino tinto, evaporamos todo el alcohol y añadimos agua. Aproximadamente 10 litros.",
+            "8. Cuando empieza a hervir añadimos 2 hojas de laurel y semi-tapamos a fuego lento durante 2 horas.",
+            "9. Colamos todo por un colador fino y reservamos el caldo.",
+            "10. Sofreímos el jengibre picado y la pasta de curry en una olla hasta dorar ligeramente.",
+            "11. Salpimentamos las lonchas de ternera, pasamos por harina y asamos la ternera en el sofrito hasta dorar.",
+            "12. Una vez dorado añadimos la leche de coco, la mitad de cilantro picado toscamente y el caldo de ave.",
+            "13. Dejamos que se cueza 50 minutos a fuego medio y tapado, removiendo de vez en cuando.",
+            "14. Reducimos la salsa hasta la textura deseada y añadimos sal al gusto.",
+            "15. Añadimos el resto de cilantro picado y emplatamos en un plato hondo."
+        ],
+        "keywords": [
+            "ternera",
+            "curry",
+            "cilantro",
+            "leche de coco",
+            "setas"
+        ],
+        "categories": [
+            "Carnes"
+        ]
+    },
+    {
+        "title": "Copa de tiramisú",
+        "image": {
+            "url": "../../../assets/images/frio1.png",
+            "alt_text": "Imagen del postre, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, con un bol plano de cristal con el tiramisú."
+        },
+        "diners": 4,
+        "time": "1 hora",
+        "difficulty": "fácil",
+        "description": "Postre italiano para amantes del café que no deja a nadie indiferente, presentado en una copa.",
+        "ingredients": [
+            "250 gramos de queso mascarpone",
+            "75 gramos de azúcar glas",
+            "2 cucharadas de licor Amaretto",
+            "75 gramos de café",
+            "4 huevos",
+            "150 gramos de bizcocho tipo soletilla",
+            "10 gramos de cacao en polvo",
+            "sal"
+        ],
+        "making": [
+            "1. Calentamos agua en una cazuela sin que llegue a hervir, mientras se calienta el agua separamos las yemas de las claras y reservamos ambas.",
+            "2. Mezclamos azúcar y las yemas en un bol metálico y empezamos a batir. Introducimos el bol en la cazuela con el agua caliente a modo de baño maría y seguimos batiendo.",
+            "3. Vamos añadiendo licor de Amaretto mientras batimos hasta que la crema se vuelva esponjosa y compacta. Reservamos.",
+            "4. Montamos las claras a punto de nieve, importante añadir una pizca de sal antes de empezar a batir.",
+            "5. Añadimos la crema montada de yemas e incorporamos con una espátula y movimientos envolventes a las claras montadas.",
+            "6. En un bol aparte, batimos el mascarpone hasta que quede cremoso y lo mezclamos a la crema anterior, con espátula y evitando que baje mucho de volumen.",
+            "7. En un molde, en este caso una copa, ponemos una capa de bizcocho tipo soletilla y lo regamos con café sin que se rompan.",
+            "8. Cubrimos de la crema de queso y huevo y volvemos a poner otro bizcocho tipo soletilla.",
+            "9. Repetimos el proceso dos veces y finalmente espolvoreamos con un colador el cacao por encima y lo dejamos enfriar. Importante dejarlo enfriar 24 horas.",
+            "10. Emplatar con un licor de amaretto al lado."
+        ],
+        "keywords": [
+            "mascarpone",
+            "café",
+            "bizcocho",
+            "cacao"
+        ],
+        "categories": [
+            "Postres",
+            "Fríos"
+        ]
+    },
+    {
+        "title": "Pimientos asados con polenta a la parmesana",
+        "image": {
+            "url": "../../../assets/images/hortaliza1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, un plato negro con pimientos de colores cálidos y un triángulo de polenta con parmesano espolvoreado."
+        },
+        "diners": 4,
+        "time": "1 hora y media",
+        "difficulty": "media",
+        "description": "La cremosidad de las yemas y el dulzor de los pimientos le dan a la polenta un toque especial. Un entrante muy recomendable en invierno.",
+        "ingredients": [
+            "70 mililitros de salsa de soja",
+            "4 huevos",
+            "12 pimientos italianos, rojos, naranjas, amarillos y verdes",
+            "1 cabeza de ajo",
+            "1 cucharadita de sirope de arce",
+            "1 cucharadita de vinagre de manzana",
+            "medio manojo de tomillo fresco",
+            "1 limón",
+            "60 mililitros de aceite de oliva virgen extra",
+            "5 gramos de albahaca picada",
+            "sal y pimienta",
+            "lata de maíz cocida",
+            "40 gramos de mantequilla sin sal",
+            "180 gramos de yogurt griego natural",
+            "40 gramos de parmesano rallado",
+            "100 gramos de polenta instantánea"
+        ],
+        "making": [
+            "1. Vertemos en un bol la soja, separamos yemas de claras y añadimos las yemas al bol de soja. Reservamos.",
+            "2. Precalentamos el horno a 200ºC. Colocamos los pimientos en una bandeja, salpimentamos.",
+            "3. Cortamos por la mitad la cabeza de ajo y salpimentamos. Mojamos todo con aceite y lo asamos en el horno. Damos cada 10 minutos la vuelta a los pimientos.",
+            "4. Una vez asados, exprimimos los ajos asados en un bol junto a los pimientos asados.",
+            "5. Añadimos el sirope, el vinagre, el tomillo, ralladura de limón, el aceite, sal y pimienta al gusto. Mezclamos los pimientos con delicadeza y dejamos la mezcla macerar 1 hora.",
+            "6. Ponemos el maíz cocido en una olla con el agua de conservación de la lata, añadimos sal y añadimos la polenta instantánea.",
+            "7. Trituramos con la batidora de mano, añadiendo el yogurt, el parmesano y 500 mililitros de agua, hasta hacer una pasta. Dejamos cocer durante 15 minutos.",
+            "8. Emplatamos la polenta en un plato hondo. Añadimos dos pimientos por plato bañando todo con un poco del líquido del macerado de pimientos.",
+            "9. Cogemos una yema curada en la soja y la añadimos al centro. Añadimos parte del parmesano y la albahaca."
+        ],
+        "keywords": [
+            "pimientos",
+            "polenta",
+            "parmesano"
+        ],
+        "categories": [
+            "Vegetales",
+            "Hortalizas"
+        ]
+    },
+    {
+        "title": "Timbal de primavera y trufa",
+        "image": {
+            "url": "../../../assets/images/hortaliza2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con las hortalizas, emplatadas en forma de cilindro."
+        },
+        "diners": 4,
+        "time": "1 hora y media",
+        "difficulty": "media",
+        "description": "Verduras asadas en su punto, aliñadas con trufa y un punto crujiente, entrante fresco y divertido para abrir el estómago.",
+        "ingredients": [
+            "2 berenjenas",
+            "2 calabacines",
+            "1 lata pimiento del piquillo",
+            "1 bote de salsa de trufas",
+            "100 gramos de pasta de arroz fino",
+            "2 zanahorias",
+            "aceite de oliva",
+            "sal",
+            "pimienta"
+        ],
+        "making": [
+            "1. Con una laminadora, cortamos las verduras en lonchas finas.",
+            "2. Escurrimos la lata de pimientos del piquillo. Reservamos.",
+            "3. Cortamos el pimiento para abrirlo y en una sartén lo asamos hasta que coja color oscuro.",
+            "4. Salpimentamos las verduras en lonchas y asamos en una sartén hasta que coja color.",
+            "5. Con un molde, montamos las verduras en su interior, de forma que quede un cilindro.",
+            "6. En una olla, añadimos abundante aceite y freímos la pasta de arroz hasta que quede crujiente.",
+            "7. Reservamos en una bandeja con papel secante para que absorba el aceite sobrante.",
+            "8. Con un pincel, pintamos la parte superior del molde con la salsa de trufa.",
+            "9. Precalentamos el horno a 220 grados e introducimos los moldes.",
+            "10. Horneamos durante 15 minutos y retiramos.",
+            "11. Emplatamos el molde en un plato plano, sacamos el molde y pintamos con el pincel los bordes y el plato con la salsa de trufa.",
+            "12. Encima del timbal de verdura, colocamos la pasta de arroz frita encima y añadimos sal al gusto."
+        ],
+        "keywords": [
+            "berenjenas",
+            "calabacines",
+            "pimientos",
+            "trufa",
+            "pasta de arroz"
+        ],
+        "categories": [
+            "Vegetales",
+            "Hortalizas"
+        ]
+    },
+    {
+        "title": "Quiche de brócoli, sobrasada y mozzarella",
+        "image": {
+            "url": "../../../assets/images/huevo1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato negro con dos porciones en triángulo, y sobrasada en polvo esparcida."
+        },
+        "diners": 4,
+        "time": "3 horas",
+        "difficulty": "media",
+        "description": "Derivado de la Quiche Lorraine, esta tartaleta salada sirve como entrante, incorporando elementos clásicos del mar Mediterráneo.",
+        "ingredients": [
+            "300 gramos de mantequilla",
+            "20 gramos de sal",
+            "5 huevos",
+            "300 gramos de harina de trigo",
+            "5 gramos de levadura química",
+            "400 mililitros de leche evaporada para cocinar",
+            "nuez moscada",
+            "45 gramos de sobrasada",
+            "pimienta blanca",
+            "1 unidad de brócoli",
+            "200 gramos de mozzarella"
+        ],
+        "making": [
+            "1. En un bol formamos una montañita con la harina, hacemos un hueco en el centro y ponemos 150 gramos de mantequilla a temperatura ambiente.",
+            "2. Añadimos la sal y mezclamos con los dedos hasta adquirir una textura granulosa.",
+            "3. Volvemos a formar un hueco en el medio donde incorporaremos 1 huevo y los 5 gramos de levadura química.",
+            "4. Vamos amasando hasta integrar todos los elementos y ligar la masa. Una vez ligada hacemos un disco y lo reservamos en nevera envuelto en film entre 15 minutos y 20 minutos.",
+            "5. Pasado el tiempo, extendemos la masa sobre una superficie y aplanamos con rodillo que tengamos a 2 milímetros de grosor. Es importante que supere en diámetro al molde que se va a usar.",
+            "6. Reservamos de nuevo en nevera de 15 a 20 minutos.",
+            "7. Colocamos la masa en el molde, previamente engrasado con mantequilla. Es importante que sobresalga un poco por los laterales.",
+            "8. Pinchamos la base y reservamos otros 15 minutos en nevera.",
+            "9. Precalentamos el horno a 180 grados con ventilador. Metemos el molde con la masa durante 10 minutos hasta que quede precocida, reservamos.",
+            "10. Ponemos agua a hervir. Cortamos el brócoli en arbolitos pequeños y cocemos hasta que esté al dente. Retiramos.",
+            "11. En un bol, mezclamos los huevos, la leche evaporada, una pizca de nuez moscada, sal, pimienta blanca, brócoli, la mozzarella y la sobrasada.",
+            "12. Vertemos el contenido en el molde con la masa precocida.",
+            "13. Subimos la temperatura a 200 grados e introducimos el molde de la quiche. Cocemos durante 30 minutos.",
+            "14. Emplatamos."
+        ],
+        "keywords": [
+            "brócoli",
+            "sobrasada",
+            "mozzarella",
+            "huevo",
+            "harina de trigo"
+        ],
+        "categories": [
+            "Verduras",
+            "Hortalizas",
+            "Huevos",
+            "Carnes"
+        ]
+    },
+    {
+        "title": "Puerros confitados con alubias y requesón",
+        "image": {
+            "url": "../../../assets/images/legumbre1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un plato cuadrado semi-hondo con una porción generosa de la misma."
+        },
+        "diners": 4,
+        "time": "1 hora",
+        "difficulty": "fácil",
+        "description": "El confitado de puerro dulce contrasta a la vinagreta fresca, y las alubias blancas redondean el plato con trozos de requesón. Plato perfecto para los días más calurosos.",
+        "ingredients": [
+            "1 bote de alubias blancas cocidas",
+            "4 puerros limpios",
+            "150 gramos de requesón",
+            "miel",
+            "100 gramos de piñones",
+            "medio manojo de menta fresca",
+            "cucharadita de canela en polvo",
+            "vinagre de Módena blanco",
+            "aceite de oliva virgen extra",
+            "vino blanco"
+        ],
+        "making": [
+            "1. Escurrimos alubias cocidas y reservamos. Guardamos parte del agua.",
+            "2. Partimos los puerros (la parte blanca) en cuartos y salpimentamos.",
+            "3. Confitamos los puerros en abundante aceite a fuego muy lento durante 30min. Pinchamos con una puntilla para comprobar que este blando. Reservamos.",
+            "4. Mezclamos en un bol 500 mililitros de aceite virgen extra y 150 mililitros de vinagre de Módena blanco.",
+            "5. Mezclamos la vinagreta con canela, menta, el vino blanco y la miel.",
+            "6. Mezclamos las alubias con la vinagreta.",
+            "7. Emplatamos los puerros en un plato y salpimentamos.",
+            "8. Emplatamos encima las alubias aliñadas con la vinagreta.",
+            "9. Cortamos el requesón y en un bol añadimos piñones tostados previamente, salpimentamos.",
+            "10. Emplatamos el requesón encima.",
+            "11. Acabamos con un chorro de aceite de oliva virgen extra."
+        ],
+        "keywords": [
+            "alubias",
+            "puerros",
+            "requesón",
+            "miel",
+            "piñones"
+        ],
+        "categories": [
+            "Legumbres",
+            "Verduras"
+        ]
+    },
+    {
+        "title": "Garbanzos con coco y curry verde",
+        "image": {
+            "url": "../../../assets/images/legumbre2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro y un plato blanco hondo con la misma."
+        },
+        "diners": 4,
+        "time": "3 horas",
+        "difficulty": "media",
+        "description": "Un plato que une la cultura oriental con la occidental. El coco da un toque dulzón, un primer plato que no dejará indiferente a nadie.",
+        "ingredients": [
+            "1 kilogramo de alitas de pollo troceadas",
+            "1,7 kilogramos de cebolla blanca",
+            "3 ajos",
+            "1,5 kilogramos de zanahoria",
+            "2 cucharadas de tomate concentrado",
+            "10 litros de agua mineral",
+            "2 kilogramos de setas portobello",
+            "1,5 litros de vino tinto",
+            "2 hojas de laurel",
+            "400 gramos de garbanzos cocidos",
+            "100 mililitros de leche de coco",
+            "1 chile rojo picado",
+            "3 dientes de ajo picados",
+            "150 gramos de tomate triturado",
+            "100 gramos de anacardo",
+            "pasta de curry verde",
+            "azúcar moreno",
+            "aceite de oliva virgen extra",
+            "100 gramos de judías verdes troceadas",
+            "sal",
+            "pimienta",
+            "virutas de coco"
+        ],
+        "making": [
+            "1. Calentamos la olla con aceite, cuando esté bien caliente se añade la cebolla (1,5 kilogramos), cortada a dados grandes.",
+            "2. Una vez tostado, se añade la zanahoria cortada a dados grandes, más o menos al mismo tamaño que la cebolla.",
+            "3. Cuando esté tostada la zanahoria añadimos 3 ajos machacados y esperamos a que se desarrolle el aroma. Lo reservamos.",
+            "4. En la misma olla añadimos las alitas de pollo troceadas y tostamos bien. Una vez tostadas añadimos la verdura que se ha hecho previamente.",
+            "5. Mezclamos y añadimos 2 cucharadas de tomate concentrado. Compotamos todo hasta que empieza a pegarse.",
+            "6. Cuando se está pegando, se añaden las de setas portobello troceadas (1 kilogramo), se mezcla todo bien y se espera hasta que esté todo tostado.",
+            "7. Una vez que se vuelve a quedar pegado, añadimos un litro de vino tinto, evaporamos todo el alcohol y añadimos agua. Aproximadamente 10 litros.",
+            "8. Cuando empieza a hervir añadimos 2 hojas de Laurel y semi-tapamos a fuego lento durante 2 horas.",
+            "9. Colamos todo por un colador fino y reservamos el caldo.",
+            "10. Escurrimos los garbanzos y reservamos.",
+            "11. Sofreímos el ajo y la cebolla restante con un poco de aceite a fuego medio durante 15 minutos. Añadimos las judías verdes troceadas.",
+            "12. Cuando la cebolla esté pochada, añadimos el chile y sofreímos unos segundos.",
+            "13. Añadimos el tomate triturado, el azúcar moreno y la sal, todo al gusto.",
+            "14. Sofreímos hasta que el tomate haya perdido el agua y vertemos los garbanzos escurridos y cubrimos con caldo. Importante solo cubrir.",
+            "15. Pasados 15 minutos añadimos la leche de coco, la pasta de curry verde y los anacardos tostados previamente.",
+            "16. Rectificamos de sal y pimienta y dejamos reposar con el fuego apagado y tapado durante 20 minutos.",
+            "17. Servir en un bol con virutas de coco encima."
+        ],
+        "keywords": [
+            "garbanzos",
+            "coco",
+            "curry",
+            "pollo",
+            "setas"
+        ],
+        "categories": [
+            "Vegetales",
+            "Legumbres",
+            "Carnes"
+        ]
+    },
+    {
+        "title": "Tallarines a la carbonara",
+        "image": {
+            "url": "../../../assets/images/pasta1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con la pasta amontonada, con queso esparcido por el mismo."
+        },
+        "diners": 4,
+        "time": "1 hora",
+        "difficulty": "media",
+        "description": "Pasta a la cremosa carbonara con panceta curada en pimientas y huevo curado.",
+        "ingredients": [
+            "400 gramos de pasta tipo espagueti",
+            "200 gramos de bacon",
+            "200 gramos de cebolla",
+            "200 gramos queso tipo parmesano",
+            "4 unidades de yema de huevo"
+        ],
+        "making": [
+            "1. Realizamos un sofrito de cebolla. Cortamos la cebolla en daditos pequeños y la pochamos hasta que pierda todo el agua con aceite.",
+            "2. Echamos una pizca de sal y un chorro de agua. Reservamos.",
+            "3. Asamos el bacon, cuando esté bien crujiente añadimos el sofrito, mezclamos y reservamos.",
+            "4. Escaldamos la pasta en una olla con el agua hirviendo. El agua tiene que tener una buena cantidad de sal.",
+            "5. Escaldamos hasta que la pasta esté al dente. Reservamos con aceite, una pizca de pimienta negra molida y punto de sal.",
+            "6. Reservamos el agua de escaldado.",
+            "7. En una sartén añadimos el sofrito con bacon y la pasta. Añadimos el queso parmesano, mezclamos con energía y vamos añadiendo agua del escaldado.",
+            "8. Seguimos removiendo hasta conseguir una textura cremosa.",
+            "9. Emplatamos, una vez en el plato añadimos la yema de huevo (una por comensal), y removemos hasta que se integre.",
+            "10. Finalizamos con un poco de queso parmesano al gusto y orégano seco."
+        ],
+        "keywords": [
+            "pasta",
+            "carbonara",
+            "bacon",
+            "queso",
+            "parmesano",
+            "huevo"
+        ],
+        "categories": [
+            "Pastas",
+            "Huevos",
+            "Carnes"
+        ]
+    },
+    {
+        "title": "Canelones navideños",
+        "image": {
+            "url": "../../../assets/images/pasta2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con canelones gratinados."
+        },
+        "diners": 4,
+        "time": "4 horas",
+        "difficulty": "difícil",
+        "description": "Estamos ante un plato que no falla en ninguna festividad, un plato de origen italiano que ha sido adoptado por la gastronomía catalana. Versátil y delicioso.",
+        "ingredients": [
+            "Pasta tipo canelón",
+            "80 gramos de mantequilla",
+            "50 gramos de harina de trigo",
+            "600 mililitros de leche entera",
+            "Sal",
+            "Nuez moscada",
+            "70 gramos de queso emmental rallado",
+            "200 gramos de jarrete de ternera",
+            "1 muslo de pollo",
+            "200 gramos de carne magra de cerdo picado",
+            "1 unidad de sesos de cordero",
+            "100 gramos de panceta picada",
+            "100 gramos de cebolla",
+            "2 dientes de ajo",
+            "100 mililitros de brandy",
+            "Aceite de oliva",
+            "Pimienta negra molida",
+            "Tomate frito",
+            "Laurel"
+        ],
+        "making": [
+            "1. En una sartén, derretimos 50 gramos de mantequilla. Una vez derretida, añadimos la harina de trigo y removemos con energía hasta que quede una pasta de color ocre.",
+            "2. En un cazo calentamos la leche sin que llegue a hervir, incorporamos la leche caliente poco a poco a la masa de mantequilla mientras removemos con unas varillas, para evitar los grumos.",
+            "3. Salpimentamos al gusto y reservamos filmando la salsa a piel.",
+            "4. En una olla metemos el jarrete de ternera y el muslo de pollo con una hoja de laurel y lo llevamos a la ebullición.",
+            "5. Una vez rompa a hervir bajamos a fuego lento y esperamos hasta que esté cocida la carne y se pueda desmigar por completo. Reservamos el caldo que resta.",
+            "6. En una sartén, tostamos por partes, la carne magra picada y la panceta picada, hasta que quede de un color oscuro. Retiramos.",
+            "7. En la misma sartén, añadimos la cebolla y la pochamos hasta que quedé oscuro con aceite y una pizca de sal. Luego añadimos los dos dientes de ajo bien picados hasta que desarrolle el aroma.",
+            "8. Añadimos dos cucharadas soperas de tomate frito y compotamos hasta que pierda toda el agua.",
+            "9. Añadimos los jarretes de ternera ya desmigados y el muslo de pollo desmigado, removemos mientras se va dorando y añadimos las carnes picadas asadas previamente.",
+            "10. Salpimentamos al gusto y añadimos el brandy. Una vez evaporado añadimos la unidad de seso de cordero cortado en láminas y removemos hasta que se haya deshecho por completo.",
+            "11. Añadimos 200 mililitros del caldo de carne que habíamos reservado y dejamos que se cocine hasta que apenas quede líquido.",
+            "12. Seguidamente añadimos 5 cucharadas soperas de bechamel, mezclamos y retiramos del fuego para reservarlo.",
+            "13. Con agua fría, reblandecemos la pasta tipo canelón. Una vez blanda, colocamos en una bandeja.",
+            "14. Con una cuchara, rellenamos el canelón abundantemente y cerramos la pasta formando un cilindro. Repetimos el proceso.",
+            "15. Una vez montados, incorporamos la bechamel por encima de los canelones, tapándolos en su totalidad. Espolvoreamos el queso por encima y reservamos.",
+            "16. Precalentamos el horno a 220 grados, una vez caliente, introducimos la bandeja con los canelones durante 20 minutos. Si falta algo de gratinado podemos dejarlo 10 minutos más.",
+            "17. Emplatamos al gusto, recomendamos añadir trufa por encima."
+        ],
+        "keywords": [
+            "canelones",
+            "navidad",
+            "ternera",
+            "pollo",
+            "cerdo",
+            "queso",
+            "emmental",
+            "bechamel",
+            "panceta"
+        ],
+        "categories": [
+            "Pastas",
+            "Carnes"
+        ]
+    },
+    {
+        "title": "Patata rellena de espinacas al ajillo y gorgonzola",
+        "image": {
+            "url": "../../../assets/images/patata1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con las patatas, rellenas de espinacas."
+        },
+        "diners": 2,
+        "time": "2 horas",
+        "difficulty": "fácil",
+        "description": "Con el toque inconfundible del queso azul, que nos recuerda a nuestros orígenes más humildes.",
+        "ingredients": [
+            "2 patatas grandes",
+            "25 gramos de mantequilla",
+            "3 cucharaditas de nata para montar",
+            "60 gramos de queso gorgonzola",
+            "200 gramos de espinaca baby",
+            "2 dientes de ajo picados"
+        ],
+        "making": [
+            "1. Precalentamos el horno a 220ºC.",
+            "2. Pinchamos las patatas con un tenedor y las ponemos en una bandeja forrada con papel vegetal durante 1 hora. Pinchamos para ver si se han cocido del todo. Reservamos.",
+            "3. Vaciamos las patatas con una cuchara, con cuidado de mantener la piel de la patata.",
+            "4. En un bol, machacamos las patatas con espinacas, gorgonzola, mantequilla y nata.",
+            "5. A parte, en una sartén, asamos los ajos y añadimos las espinacas con un poco de agua.",
+            "6. Una vez cocidas ligeramente unimos las espinacas con la mezcla de patata y salpimentamos al gusto.",
+            "7. Con un pincel untamos las pieles de patata y las horneamos de nuevo durante 8 minutos. Las retiramos una vez crujientes.",
+            "8. Esperamos que se enfríe y con una cuchara rellenamos las patatas generosamente.",
+            "9. Horneamos las patatas rellenas otros 15 minutos y emplatamos."
+        ],
+        "keywords": [
+            "patata",
+            "espinacas",
+            "queso",
+            "gorgonzola",
+            "queso azul"
+        ],
+        "categories": [
+            "Vegetales",
+            "Hortalizas",
+            "Patatas"
+        ]
+    },
+    {
+        "title": "Rosti y panceta",
+        "image": {
+            "url": "../../../assets/images/patata2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, con una porción generosa de patatas y panceta."
+        },
+        "diners": 4,
+        "time": "1 hora y media",
+        "difficulty": "fácil",
+        "description": "Patata asada y panceta asada combinan perfectamente entre los aromas ahumados y el tomillo fresco. Un plato estupendo para los inviernos más fríos.",
+        "ingredients": [
+            "5 patatas agrias",
+            "200 gramos de mantequilla",
+            "150 mililitros de nata para montar",
+            "1 nuez moscada",
+            "Sal",
+            "Pimienta",
+            "Panceta ahumada",
+            "Medio manojo de tomillo fresco"
+        ],
+        "making": [
+            "1. Lavamos las patatas y las rallamos con un rallador.",
+            "2. Precalentamos el horno a 180 grados.",
+            "3. En una bandeja apta para horno mezclamos la patata rallada con la mantequilla, la nata y una pizca de nuez moscada rallada. Salpimentamos al gusto.",
+            "4. Introducimos la bandeja en el horno durante 30 minutos.",
+            "5. Sacamos la bandeja, removemos el contenido y lo introducimos nuevamente en el horno durante 30 minutos.",
+            "6. Comprobamos que los bordes de la bandeja se quemen ligeramente y sacamos la bandeja.",
+            "7. Cortamos la panceta en lonchas gordas. Asamos en una sartén hasta que coja color tostado por ambos lados.",
+            "8. Cortamos el Rosti en cuadrados y emplatamos. Encima ponemos la panceta asada.",
+            "9. Añadimos una rama de tomillo fresco y con un soplete lo quemamos, hasta que salga humo denso."
+        ],
+        "keywords": [
+            "patata",
+            "panceta"
+        ],
+        "categories": [
+            "Carnes",
+            "Patatas"
+        ]
+    },
+    {
+        "title": "Tortilla rellena de bacalao y pimiento verde",
+        "image": {
+            "url": "../../../assets/images/pescado1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro que contiene la tortilla, la cual tiene por encima el bacalao y el pimiento."
+        },
+        "diners": 4,
+        "time": "1 hora",
+        "difficulty": "fácil",
+        "description": "Oblea de huevos relleno de bacalao confitado a baja temperatura y sofrito de pimiento a medio cocer.",
+        "ingredients": [
+            "1 pimiento verde",
+            "aceite",
+            "200 gramos de cebolla blanca",
+            "3 ajos (uno para el sofrito y dos para el relleno)",
+            "sal",
+            "pimienta blanca",
+            "1 guindilla",
+            "1 laurel",
+            "1 lomo de bacalao limpio y desalado",
+            "2 huevos"
+        ],
+        "making": [
+            "1. Quemamos la piel del pimiento verde hasta que este negro, lo ponemos en un bol de agua y limpiamos la piel, quedando solo la carne del pimiento.",
+            "2. En una sartén, añadimos aceite y rehogamos la cebolla hasta caramelizar, incorporamos el ajo hasta que desarrolle el aroma.",
+            "3. Añadimos el pimiento y cocinamos brevemente hasta que esté todo pochado.",
+            "4. En un cazo añadimos el aceite y calentamos un poco.",
+            "5. Machacamos el ajo con su piel y lo introducimos en el aceite junto a la guindilla y el laurel. Sin que empiece a freír, jugamos con la temperatura para perfumar el aceite durante media hora.",
+            "6. Introducimos el bacalao y confitamos en el aceite, es importante que no hierva fuerte, por lo que tiene que estar a fuego mínimo e ir retirando del fuego cada tanto, durante 20 minutos.",
+            "7. Retiramos el bacalao del aceite y lo deslamamos en lascas. Mezclamos sin mucho ímpetu en un bol con el sofrito de pimiento verde.",
+            "8. Batimos los huevos, sazonamos con sal pimienta al gusto.",
+            "9. Calentamos la sartén y añadimos un poco del aceite de confitar del bacalao y una pizca de mantequilla.",
+            "10. Cuando el aceite empieza a humear, añadimos los huevos, bajamos el fuego y removemos la mezcla hasta que quede cuajada pero unida.",
+            "11. Formamos la tortilla con la oblea, añadimos la mezcla de bacalao y cerramos la tortilla de los lados hacia el centro formando un rectángulo.",
+            "12. Emplatamos la tortilla abriéndola con una puntilla por arriba, añadiendo algo de mezcla de bacalao encima."
+        ],
+        "keywords": [
+            "tortilla",
+            "bacalao",
+            "pimiento"
+        ],
+        "categories": [
+            "Pescados",
+            "Huevos",
+            "Vegetales",
+            "Hortalizas"
+        ]
+    },
+    {
+        "title": "Lubina en su salsa y setas",
+        "image": {
+            "url": "../../../assets/images/pescado2.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro que contiene el pescado, con la salsa cubriendo alrededor."
+        },
+        "diners": 4,
+        "time": "2 horas",
+        "difficulty": "media",
+        "description": "La lubina en su salsa es un plato elegante que se puede comer en cualquier estación, sin olvidarnos del umami que dan las setas, redondeando el plato.",
+        "ingredients": [
+            "lomo de lubina",
+            "apio",
+            "apionabo (raíz del apio)",
+            "puerro",
+            "100 gramos de harina",
+            "50 gramos de mantequilla",
+            "restos de lubina (espinas y cabeza)",
+            "200 gramos de setas",
+            "sal",
+            "pimienta",
+            "(opcional) maicena"
+        ],
+        "making": [
+            "1. Racionamos la lubina en lomos pequeños de 200 gramos. Reservamos.",
+            "2. Añadimos en una olla las espinas y la cabeza y echamos agua hasta cubrir. Llevamos a ebullición.",
+            "3. Dejamos hervir 10 minutos y apagamos el fuego, añadimos medio manojo de apio y tapamos durante 30 minutos.",
+            "4. Colamos el caldo y reservamos.",
+            "5. Cortamos 1 apionabo y 1 kilogramo de puerro a dados pequeños y rehogamos con medio kilogramo de mantequilla. Removemos continuamente.",
+            "6. Una vez pochado, añadimos el caldo de pescado y trituramos todo con la batidora de mano.",
+            "7. Colamos todo. En una olla tostamos la harina con la mantequilla. Una vez tostada la harina de un color amarillo pálido añadimos el caldo.",
+            "8. Dejamos reducir en el fuego hasta tener la textura deseada de salsa. Para texturizar, podemos añadir maicena hasta llegar a la textura.",
+            "9. Cogemos las setas silvestres y las añadimos a una sartén caliente con aceite, sal y pimienta. Hay que asarlas brevemente sin que se pochen mucho.",
+            "10. Asamos por la piel en una sartén la lubina. Cuando la piel esté dorada, añadimos algo de caldo de pescado sobrante y tapamos durante 8 minutos.",
+            "11. Sacamos la lubina y emplatamos por la parte de la piel. Añadimos la salsa tapando toda la lubina y dejando que sobresalga por los lados.",
+            "12. Añadimos las setas encima y acabamos con un poco más de salsa."
+        ],
+        "keywords": [
+            "lubina"
+        ],
+        "categories": [
+            "Pescados",
+            "Setas"
+        ]
+    },
+    {
+        "title": "Crema de setas y huevo a baja temperatura",
+        "image": {
+            "url": "../../../assets/images/seta1.png",
+            "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, sobre él se encuentra un bol blanco con crema blanca, un huevo y un champiñón asado."
+        },
+        "diners": 4,
+        "time": "3 horas",
+        "difficulty": "media",
+        "description": "Crema ligera de setas, sabores umami contrastados con un cremoso huevo a baja temperatura.",
+        "ingredients": [
+            "1 kilogramo de alitas de pollo troceadas",
+            "1,5 kilogramos de cebolla blanca",
+            "3 ajos",
+            "1,5 kilogramos de zanahoria",
+            "2 cucharadas de tomate concentrado",
+            "10 litros de agua mineral",
+            "2 kilogramos de setas portobello",
+            "1,5 litros de vino tinto",
+            "2 hojas de laurel",
+            "1 kilogramo de champiñones blancos",
+            "500 gramos de mix de setas",
+            "2 patatas",
+            "3 puerros",
+            "Aceite",
+            "Vinagre",
+            "Huevo"
+        ],
+        "making": [
+            "1. Calentamos la olla con aceite, cuando esté bien caliente se añade la cebolla (1,5 kilogramos), cortada a dados grandes.",
+            "2. Una vez tostado, se añade la zanahoria cortada a dados grandes, más o menos al mismo tamaño que la cebolla.",
+            "3. Cuando esté tostada la zanahoria añadimos 3 ajos machacados y esperamos a que se desarrolle el aroma. Lo reservamos.",
+            "4. En la misma olla añadimos las alitas de pollo troceadas y tostamos bien. Una vez tostadas añadimos la verdura que se ha hecho previamente.",
+            "5. Mezclamos y añadimos 2 cucharadas de tomate concentrado. Compotamos todo hasta que empieza a pegarse.",
+            "6. Cuando se está pegando, se añaden las setas portobello troceadas (1 kilogramo), se mezcla todo bien y se espera hasta que esté todo tostado.",
+            "7. Una vez que se vuelve a quedar pegado, añadimos un litro de vino tinto, evaporamos todo el alcohol y añadimos agua. Aproximadamente 10 litros.",
+            "8. Cuando empieza a hervir añadimos 2 hojas de laurel y semi-tapamos a fuego lento durante 2 horas.",
+            "9. Colamos todo por un colador fino y reservamos el caldo.",
+            "10. Limpiamos el puerro de su parte verde y lo cortamos en rodajas finas y sofreímos con aceite.",
+            "11. Precalentamos el horno a 190 grados, estiramos las patatas sobre una bandeja y las cubrimos de sal gorda. Horneamos las patatas 40 minutos. Las sacamos del horno y las pelamos.",
+            "12. Una vez el puerro coge color, añadimos el mix de setas y sofreímos hasta que todo quede dorado intenso.",
+            "13. Añadimos los champiñones blancos cortados toscamente en rodajas y sofreímos la mezcla.",
+            "14. Añadimos la patata pelada y asada rompiéndola en pedazos con la mano. Mezclamos bien y añadimos el caldo. Aproximadamente 5 litros.",
+            "15. Dejamos que rompa a hervir y cocemos durante media hora. Apagamos el fuego y tapamos 20 minutos.",
+            "16. Trituramos todo hasta que quede una crema fina y colamos por un colador fino. Reservamos.",
+            "17. En una olla pequeña, ponemos agua y un chorro de vinagre. Encendemos el fuego y esperamos a que el agua esté caliente, a punto de hervir.",
+            "18. Con una cuchara removemos el agua con intensidad creando una especie de torbellino en el centro y acto seguido cascamos un huevo y lo introducimos en el agua.",
+            "19. Esperamos a que el huevo empiece a cocer, pasando de transparente a blanco y con una cuchara lo sacamos.",
+            "20. Emplatamos la crema bien caliente en un plato hondo y en el centro ponemos el huevo a baja temperatura. Añadimos sal y pimienta al gusto."
+        ],
+        "keywords": [
+            "crema",
+            "portobello",
+            "pollo",
+            "cebolla",
+            "zanahoria",
+            "vino tinto",
+            "champiñones",
+            "patata"
+        ],
+        "categories": [
+            "Setas",
+            "Huevos",
+            "Carnes",
+            "Vegetales",
+            "Hortalizas",
+            "Patatas"
+        ]
+    }
+]

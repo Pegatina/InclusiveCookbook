@@ -1,0 +1,264 @@
+/*Estilo adaptado a la ceguera parcial y daltonismo*/
+
+/*Section que engloba el texto introductorio, con la voz masculina no permite leer tanto texto seguido, salta una funcionalidad de Google Chrome que se detiene,
+así que necesitaba dividirse en 3 botones, esta sección recoge todos.*/
+
+$magenta: rgb(227, 48, 100);
+$chocolate: rgb(55, 47, 53);
+
+$theme-colors: (
+  "magenta": $magenta,
+  "chocolate": $chocolate,
+);
+
+@mixin intro-style {
+  display: flex;
+  flex-direction: column;
+  padding-left: 2%;
+}
+#intro {
+  @include intro-style;
+}
+
+/*Botones que en apariencia son bloques de texto, para poder desplazarse con tabulador, para que funcione correctamente la API y visualmente no se aprecie*/
+@mixin buttonText-style {
+  background-color: transparent;
+  border: none;
+  color: #333;
+  cursor: text;
+  display: block;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  padding: 0;
+  width: auto;
+  text-align: left;
+}
+.buttonText {
+  @include buttonText-style;
+}
+
+/*Para que siga aparentando ser un texto normal, no debe tener efecto al poner el ratón encima.*/
+@mixin buttonText-hover {
+  text-decoration: none;
+}
+.buttonText:hover {
+  @include buttonText-hover;
+}
+/*Botón que en apariencia es un bloque de texto, simulando un título, para poder desplazarse con tabulador, para que funcione correctamente la API y visualmente no se aprecie*/
+/*Solo se usa en main*/
+@mixin tittleButtonText-style {
+  background-color: transparent;
+  border: none;
+  color: rgb(55, 47, 53);
+  cursor: text;
+  display: block;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  width: auto;
+}
+.tittleButtonText {
+  @include tittleButtonText-style;
+}
+/*Para que siga aparentando ser un texto normal, no debe tener efecto al poner el ratón encima.*/
+@mixin tittleButtonText-hover {
+  text-decoration: none;
+}
+.tittleButtonText:hover {
+  @include tittleButtonText-hover;
+}
+/*Lo mismo, pero centrado al medio*/
+@mixin tittleButtonTextCenter-style {
+  background-color: transparent;
+  border: none;
+  color: rgb(55, 47, 53);
+  cursor: text;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  padding: 0;
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+.tittleButtonTextCenter {
+  @include tittleButtonTextCenter-style;
+}
+/*Para que siga aparentando ser un texto normal, no debe tener efecto al poner el ratón encima.*/
+@mixin tittleButtonTextCenter-hover {
+  text-decoration: none;
+}
+.tittleButtonTextCenter:hover {
+  @include tittleButtonTextCenter-hover;
+}
+/*Para hacer más legibles los elementos*/
+@mixin controls-style {
+  text-align: center;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.controls {
+  @include controls-style;
+}
+@mixin controls-select-style {
+  padding: 10px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  text-align: left;
+  min-width: 200px;
+  border: 2px solid $magenta;
+  border-radius:0%;
+}
+.controls select {
+  @include controls-select-style;
+}
+
+@mixin controls-button-style {
+  padding: 20px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  flex: 0 0 auto;
+}
+.controls button {
+  @include controls-button-style;
+}
+/*Input con apariencia de imagen para poder hacer tab sobre él*/
+@mixin images-style {
+  display: block;
+  margin: 0 auto;
+  cursor: default;
+}
+.images {
+  @include images-style;
+}
+@mixin parent-style {
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 20px;
+}
+
+#parent {
+  @include parent-style;
+}
+/* Media Query para las vistas de tablet y móvil */
+@media only screen and (max-width: 768px) {
+  #parent {
+    flex-direction: column;
+    padding-left: 2%;
+  }
+}
+@mixin container-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  @include container-style;
+}
+
+@mixin banner-style {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+#banner {
+  @include banner-style;
+}
+@mixin search-style {
+  padding-top: 19%;
+}
+.search {
+  @include search-style;
+}
+#search{
+  border: 2px solid $magenta;
+}
+/* Media Query para las vistas de tablet y móvil */
+@media only screen and (max-width: 768px) {
+  .search {
+    padding-top: 4%;
+  }
+}
+@mixin search-ol-style {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  padding-left: 0%;
+}
+.search ol {
+  @include search-ol-style;
+}
+@mixin search-input-button-style {
+  padding: 10px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  width: 100%;
+  box-sizing: border-box;
+}
+.search input,
+.search button {
+  @include search-input-button-style;
+}
+@mixin recipe-style {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.recipe {
+  @include recipe-style;
+}
+@mixin column-style {
+  padding-left: 20px;
+}
+.column {
+  @include column-style;
+}
+@mixin row-style {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-top: 10px;
+}
+.row {
+  @include row-style;
+}
+@mixin accordion-style {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+}
+.accordion {
+  @include accordion-style;
+}
+@mixin list-item-style {
+  color: $chocolate;
+}
+.list-item, .dropDown-item {
+  @include list-item-style;
+}
+@mixin footer-style {
+  width: 100%;
+  border: 2px solid rgb(227, 48, 100);
+  color: rgb(227, 48, 100);
+  margin-top: 4%;
+}
+footer {
+  @include footer-style;
+}
+
+@mixin steps-style {
+  padding: 10px;
+}
+#steps {
+  @include steps-style;
+}
+@import "node_modules/bootstrap/scss/bootstrap";
