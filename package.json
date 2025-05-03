@@ -11,11 +11,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bootstrap": "^5.3.0"
-  },
   "devDependencies": {
-    "vite": "^6.0.7"
+    "vite": "^6.3.4",
+    "vite-plugin-static-copy": "^2.3.1"
   },
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "sass": "^1.87.0"
+  }
 }

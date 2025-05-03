@@ -131,7 +131,7 @@ export function getSelectedVoice() {
 //Función para obtener las recetas locales y cargarlas en la página principal
 export async function getRecipes() {
     try {
-        const response = await fetch('../data/recipes.json');  // Ruta relativa al archivo JSON
+        const response = await fetch('/data/recipes.json');  // Ruta al archivo JSON
         const recipes = await response.json();  // Se parsea la respuesta como JSON
         return recipes;
     } catch (error) {

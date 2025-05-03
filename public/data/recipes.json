@@ -2,7 +2,7 @@
     {
         "title": "Risotto de setas y pato",
         "image": {
-            "url": "../../../assets/images/arroz1.png",
+            "url": "/assets/images/arroz1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un bol blanco encima, con setas esparcidas por toda la vajilla."
         },
         "diners": 3,
@@ -71,7 +71,7 @@
     {
         "title": "Arroz caldoso de Bogavante",
         "image": {
-            "url": "../../../assets/images/arroz2.png",
+            "url": "/assets/images/arroz2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un plato hondo blanco encima que contiene un imponente bogavante rodeado de caldo."
         },
         "diners": 4,
@@ -147,7 +147,7 @@
     {
         "title": "Crema catalana de castaña",
         "image": {
-            "url": "../../../assets/images/caliente1.png",
+            "url": "/assets/images/caliente1.png",
             "alt_text": "Imagen del postre, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, encima un bol plano de cristal con el mismo."
         },
         "diners": 4,
@@ -196,7 +196,7 @@
     {
         "title": "Pollo con sofrito de chorizo, tomates y garbanzos",
         "image": {
-            "url": "../../../assets/images/carne1.png",
+            "url": "/assets/images/carne1.png",
             "alt_text": "Imagen del plato, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un plato hondo blanco encima, con una porción generosa de pollo con sofrito."
         },
         "diners": 4,
@@ -241,7 +241,7 @@
     {
         "title": "Ternera Curry thai",
         "image": {
-            "url": "../../../assets/images/carne2.png",
+            "url": "/assets/images/carne2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato negro con la ternera cubierta de salsa curry y cilantro picado."
         },
         "diners": 4,
@@ -299,7 +299,7 @@
     {
         "title": "Copa de tiramisú",
         "image": {
-            "url": "../../../assets/images/frio1.png",
+            "url": "/assets/images/frio1.png",
             "alt_text": "Imagen del postre, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, con un bol plano de cristal con el tiramisú."
         },
         "diners": 4,
@@ -342,7 +342,7 @@
     {
         "title": "Pimientos asados con polenta a la parmesana",
         "image": {
-            "url": "../../../assets/images/hortaliza1.png",
+            "url": "/assets/images/hortaliza1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, un plato negro con pimientos de colores cálidos y un triángulo de polenta con parmesano espolvoreado."
         },
         "diners": 4,
@@ -391,7 +391,7 @@
     {
         "title": "Timbal de primavera y trufa",
         "image": {
-            "url": "../../../assets/images/hortaliza2.png",
+            "url": "/assets/images/hortaliza2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con las hortalizas, emplatadas en forma de cilindro."
         },
         "diners": 4,
@@ -438,7 +438,7 @@
     {
         "title": "Quiche de brócoli, sobrasada y mozzarella",
         "image": {
-            "url": "../../../assets/images/huevo1.png",
+            "url": "/assets/images/huevo1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato negro con dos porciones en triángulo, y sobrasada en polvo esparcida."
         },
         "diners": 4,
@@ -491,7 +491,7 @@
     {
         "title": "Puerros confitados con alubias y requesón",
         "image": {
-            "url": "../../../assets/images/legumbre1.png",
+            "url": "/assets/images/legumbre1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con un plato cuadrado semi-hondo con una porción generosa de la misma."
         },
         "diners": 4,
@@ -538,7 +538,7 @@
     {
         "title": "Garbanzos con coco y curry verde",
         "image": {
-            "url": "../../../assets/images/legumbre2.png",
+            "url": "/assets/images/legumbre2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro y un plato blanco hondo con la misma."
         },
         "diners": 4,
@@ -604,7 +604,7 @@
     {
         "title": "Tallarines a la carbonara",
         "image": {
-            "url": "../../../assets/images/pasta1.png",
+            "url": "/assets/images/pasta1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con la pasta amontonada, con queso esparcido por el mismo."
         },
         "diners": 4,
@@ -647,7 +647,7 @@
     {
         "title": "Canelones navideños",
         "image": {
-            "url": "../../../assets/images/pasta2.png",
+            "url": "/assets/images/pasta2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con canelones gratinados."
         },
         "diners": 4,
@@ -713,7 +713,7 @@
     {
         "title": "Patata rellena de espinacas al ajillo y gorgonzola",
         "image": {
-            "url": "../../../assets/images/patata1.png",
+            "url": "/assets/images/patata1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro con las patatas, rellenas de espinacas."
         },
         "diners": 2,
@@ -755,7 +755,7 @@
     {
         "title": "Rosti y panceta",
         "image": {
-            "url": "../../../assets/images/patata2.png",
+            "url": "/assets/images/patata2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, con una porción generosa de patatas y panceta."
         },
         "diners": 4,
@@ -795,7 +795,7 @@
     {
         "title": "Tortilla rellena de bacalao y pimiento verde",
         "image": {
-            "url": "../../../assets/images/pescado1.png",
+            "url": "/assets/images/pescado1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro que contiene la tortilla, la cual tiene por encima el bacalao y el pimiento."
         },
         "diners": 4,
@@ -843,7 +843,7 @@
     {
         "title": "Lubina en su salsa y setas",
         "image": {
-            "url": "../../../assets/images/pescado2.png",
+            "url": "/assets/images/pescado2.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro que contiene el pescado, con la salsa cubriendo alrededor."
         },
         "diners": 4,
@@ -888,7 +888,7 @@
     {
         "title": "Crema de setas y huevo a baja temperatura",
         "image": {
-            "url": "../../../assets/images/seta1.png",
+            "url": "/assets/images/seta1.png",
             "alt_text": "Imagen de la receta, se ve un fondo magenta con un mantel blanco de base, el cual contiene un plato plano negro, sobre él se encuentra un bol blanco con crema blanca, un huevo y un champiñón asado."
         },
         "diners": 4,

@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Recetario inclusivo</title>
-        <link rel="stylesheet" href="../../assets/css/style.css">
-        <link rel="shortcut icon" href="../../assets/images/logo.png" type="image/x-icon">
-        <!-- Se usa el logo de icono para darle otro toque más de personalización -->
-        <script src="../../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-    </head>
-    <body>
-        <!-- Página principal del sitio, lee en alto con la voz elegida previamente, contiene todas las secciones de las recetas y un buscador de las mismas 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetario inclusivo</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="shortcut icon" href="/assets/images/logo.png" type="image/x-icon">
+    <!-- Se usa el logo de icono para darle otro toque más de personalización -->
+    <!-- <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script> -->
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <!-- Página principal del sitio, lee en alto con la voz elegida previamente, contiene todas las secciones de las recetas y un buscador de las mismas 
         por palabras clave, ingredientes y sección-->
-        <button class="tittleButtonText">Recetario inclusivo</button>
-        <input id="banner" class="images" type="image" src="../../assets/images/banner.png" alt="Imagen del banner principal del sitio.
+    <button class="tittleButtonText">Recetario inclusivo</button>
+    <input id="banner" class="images" type="image" src="/assets/images/banner.png" alt="Imagen del banner principal del sitio.
         En la misma, hay un surtido de herramientas de cocina, así como vajilla, cubiertos, fideos... 
         Una fiesta para la futura elaboración, sobre fondo magenta.">
-        <section id="parent">
-            <div class="container" id="search-container">
-                <div class="row">
-                    <div class="col">
-                        <div class="search">
-                            <input id="search" class="rounded" type="search" required placeholder="Busca aquí tu receta">
-                            <button id="record" class="btn btn-chocolate">Grabar búsqueda</button>
-                            <button id="play" class="btn btn-magenta text-white">Reproducir búsqueda</button>
-                            <ol id="list">
-                            </ol>
-                        </div>
+    <section id="parent">
+        <div class="container" id="search-container">
+            <div class="row">
+                <div class="col">
+                    <div class="search">
+                        <input id="search" class="rounded" type="search" required placeholder="Busca aquí tu receta">
+                        <button id="record" class="btn btn-chocolate">Grabar búsqueda</button>
+                        <button id="play" class="btn btn-magenta text-white">Reproducir búsqueda</button>
+                        <ol id="list">
+                        </ol>
                     </div>
                 </div>
             </div>
-        </section>
-        <footer></footer>
-        <script type="module" src="../js/main.js"></script>
-    </body>
+        </div>
+    </section>
+    <footer></footer>
+    <script type="module" src="/src/js/main.js"></script>
+</body>
 </html>
