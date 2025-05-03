@@ -25,7 +25,7 @@ export function fillVoices(synth, voiceSelect, callback) {
         //             list.push({ text: option.textContent, name: voice.name });
         //         }
         //     });
-        const filteredVoices = voices.filter(v => v.lang === "es-ES");
+        const filteredVoices = voices.filter(v => v.lang.startsWith("es"));
 
         filteredVoices.forEach((voice, index) => {
           const label = `Voz ${index + 1}: ${voice.name}`;
