@@ -9,22 +9,6 @@ export function fillVoices(synth, voiceSelect, callback) {
         voiceSelect.innerHTML = ""; // Se vacía el select
 
         const list = [];
-
-        // voices
-        //     .filter(v => v.lang === "es-ES")
-        //     .forEach(voice => {
-        //         let option;
-        //         if (voice.name.includes("Helena")) {
-        //             option = createOption("Opción 1: Voz femenina", voice.name);
-        //         } else if (voice.name.includes("español")) {
-        //             option = createOption("Opción 2: Voz masculina", voice.name);
-        //         }
-
-        //         if (option) {
-        //             voiceSelect.appendChild(option);
-        //             list.push({ text: option.textContent, name: voice.name });
-        //         }
-        //     });
         const filteredVoices = voices.filter(v => v.lang.startsWith("es"));
 
         filteredVoices.forEach((voice, index) => {
@@ -33,12 +17,7 @@ export function fillVoices(synth, voiceSelect, callback) {
           voiceSelect.appendChild(option);
           list.push({ text: option.textContent, name: voice.name });
         });
-
-        // Opción para que la página no se lea en voz alta (a partir de la página principal, en la página inicial se lee con la voz por defecto por accesibilidad.)
-        // const noVoice = createOption("Opción 3: Ninguna voz", "noVoice");
-        // voiceSelect.appendChild(noVoice);
-        // list.push({ text: noVoice.textContent, name: "noVoice" });
-
+        
         const noVoiceIndex = filteredVoices.length + 1;
         const noVoice = createOption(`Voz ${noVoiceIndex}: Ninguna voz`, "noVoice");
         voiceSelect.appendChild(noVoice);
